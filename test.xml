@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<license id="5bddb816-ae52-478e-94df-5d86f1ec92ee" expiration="2019-05-25T00:00:00.0000000" type="Trial">
+  <name>RMON Networks (bmoore@rmonnetworks.com)</name>
+  <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+    <SignedInfo>
+      <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+      <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" />
+      <Reference URI="">
+        <Transforms>
+          <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
+        </Transforms>
+        <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <DigestValue>lj1QkFYRnCpMq1qGVVHG/Q/IDS0=</DigestValue>
+      </Reference>
+    </SignedInfo>
+    <SignatureValue>T2X3JpRZGRTtP9GX9BtYidNq8hl/ucjVD4dTg7Y9UyMIsm1G8lpfy+y7jeLdweAjla2YvGpO2SsQJ5SDdVrmTTkqmhoZ55ED2R/j0P/1cZ8YFLTRQnT76ad1dvSUPHiQzcjsVKPxgKt7fuofOOJY5jSUbVfEmRRnNSv6DiRNUH0=</SignatureValue>
+  </Signature>
+</license>
